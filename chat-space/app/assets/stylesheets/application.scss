@@ -1,0 +1,9 @@
+@import 'font-awesome-sprockets';
+@import "font-awesome";
+@import "config/colors";
+@import "config/font-size";
+@import "config/reset";
+@import "mixins/vendor_prefix";
+@import "./messages";
+@import "./side_bar.scss";
+@import "./messages.scss";
