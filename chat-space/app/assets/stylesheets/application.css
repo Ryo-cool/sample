@@ -13,7 +13,3 @@
  *= require_tree .
  *= require_self
  */
-@import "./reset";
-@import "./messages";
-@import "font-awesome-sprockets";
-@import "./font-awesome";
